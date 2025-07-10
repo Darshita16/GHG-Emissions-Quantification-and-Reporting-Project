@@ -40,6 +40,11 @@ This project focuses on quantifying and analyzing greenhouse gas (GHG) emissions
 
 - CO₂ emissions account for the majority of total GHG emissions, followed by CH₄ and N₂O.
 - Certain provinces and industrial sectors dominate emissions, making them prime targets for reduction strategies.
+
+![image](https://github.com/user-attachments/assets/9a514038-b50f-4185-bfc2-6a74582cd982)
+![image](https://github.com/user-attachments/assets/75e4f13f-663e-4b50-9bfb-475b8a3109bd)
+
+
 - Post-2020 trends show shifts in emissions, influenced by regulatory changes and technological adoption.
 
 📌 Future Improvements
